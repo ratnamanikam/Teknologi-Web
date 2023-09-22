@@ -45,5 +45,12 @@ function calculateVolume(shape) {
             volume = Math.PI * r ** 2 * t;
             document.getElementById("pdemo").innerText = "Volume Tabung = " + volume + " cm^3";
             break;
+
+            const nama = "John Doe"; // Gantilah dengan nama Anda
+            const nim = "123456789"; // Gantilah dengan NIM Anda
+            const kelas = "A1"; // Gantilah dengan kelas Anda
+            document.getElementById("identitas").innerText = `Nama: ${nama} NIM: ${nim} Kelas: ${kelas}`;
+
+            break;
     }
 }
