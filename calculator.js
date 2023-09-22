@@ -46,11 +46,5 @@ function calculateVolume(shape) {
             document.getElementById("pdemo").innerText = "Volume Tabung = " + volume + " cm^3";
             break;
 
-            const nama = "Komang Ratna Mutu Manikam";
-            const nim = "2215101022";
-            const kelas = "A";
-            document.getElementById("identitas").innerText = `Nama: ${nama} NIM: ${nim} Kelas: ${kelas}`;
-
-            break;
     }
 }
