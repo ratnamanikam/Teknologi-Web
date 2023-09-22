@@ -46,9 +46,9 @@ function calculateVolume(shape) {
             document.getElementById("pdemo").innerText = "Volume Tabung = " + volume + " cm^3";
             break;
 
-            const nama = "John Doe"; // Gantilah dengan nama Anda
-            const nim = "123456789"; // Gantilah dengan NIM Anda
-            const kelas = "A1"; // Gantilah dengan kelas Anda
+            const nama = "Komang Ratna Mutu Manikam";
+            const nim = "2215101022";
+            const kelas = "A";
             document.getElementById("identitas").innerText = `Nama: ${nama} NIM: ${nim} Kelas: ${kelas}`;
 
             break;
